@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Script Name:                  HelloWorld
+# Class Name:                   Ops 201
+# Author Name:                  Scott Vipond
+# Date of latest revision:      11/8/2022
+# Purpose:                      Code Challenge
+
+my_variable="I am working perfectly"
+
+echo $my_variable
+
+# How would you "echo" out the contents of a file?
